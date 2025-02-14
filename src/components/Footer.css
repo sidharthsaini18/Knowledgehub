@@ -1,0 +1,27 @@
+#footerBackground {
+  position: absolute;
+  width: 100%;
+  background-color: black;
+  height: 121px;
+  top: 743px;
+}
+
+#footerFirstElement {
+  text-align: center;
+  align-items: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 1em;
+  color: white;
+  position: relative;
+  top: 15px;
+}
+
+#footerSecondElement {
+  text-align: center;
+  align-items: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 1em;
+  color: white;
+  position: relative;
+  top: 10px;
+}
